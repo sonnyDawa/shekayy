@@ -42,7 +42,7 @@ function App() {
       } path="/dashbord"/> 
         <Route  element={<Employee/> } path="/individual"/> 
         <Route  element={<Company/> } path="/company"/> 
-        <Route  element={<Home/>} path="/"/>
+        <Route  element={<Home/>} path="/shekayy"/>
         <Route  element={<Hire/>} path="/hire"/>
         <Route  element={<Jobs/>} path="/jobs"/>
         <Route  element={<Signupprice/>} path="/price"/>
